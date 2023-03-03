@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+
+#foto{
+	border-radius:50%;
+	height: 200px;
+	width: 200px;
+	border: solid;
+
+}
+	
+#d1{
+	height:auto;
+	width: 100%;
+	background-color: #d2d2d2;
+	padding-bottom: .5rem;
+	border-radius: 2%;
+	color: rgb(104, 104, 104);
+}
+	
+#sesi{
+height: 95.25px;
+width: 186px;
+}
